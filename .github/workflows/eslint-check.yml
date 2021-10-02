@@ -30,7 +30,9 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - run: make ci
+      - run: npm ci
+      - run: npm publish --dry-run
+      - run: npm link
       - name: Run eslint
         run: make lint
 
