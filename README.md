@@ -6,3 +6,6 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/VildankKhabibov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/VildankKhabibov/frontend-project-lvl1/actions)
+
+**Deploy and play the Even Game**
+[![asciicast](https://asciinema.org/a/YbfDdVuZRM12qyhAieZ05Gsou.svg)](https://asciinema.org/a/YbfDdVuZRM12qyhAieZ05Gsou)
