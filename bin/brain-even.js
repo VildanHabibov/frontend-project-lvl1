@@ -27,5 +27,5 @@ function evenGame() {
       break;
     }
   }
-};
+}
 evenGame();
