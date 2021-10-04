@@ -7,4 +7,10 @@ function greeting() {
   return name;
 }
 
-export default greeting;
+function randomInteger(min, max) {
+  // случайное число от min до (max+1)
+  const rand = min + Math.random() * (max + 1 - min);
+  return Math.floor(rand);
+}
+
+export { greeting, randomInteger };
