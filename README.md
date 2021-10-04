@@ -12,3 +12,6 @@
 
 **the Calculation Game**
 [![asciicast](https://asciinema.org/a/oyPYEQEZyDLD0DgpGERiEBPrP.svg)](https://asciinema.org/a/oyPYEQEZyDLD0DgpGERiEBPrP)
+
+**the Greatest Common Divisor Game**
+[![asciicast](https://asciinema.org/a/3eirwcA4ztQPVDKQ4NkbrNuED.svg)](https://asciinema.org/a/3eirwcA4ztQPVDKQ4NkbrNuED)
