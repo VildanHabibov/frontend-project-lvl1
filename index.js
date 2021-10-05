@@ -18,7 +18,7 @@ function startGame(game, RULE) {
       console.log(QUESTION);
 
       const answer = readlineSync.question('Your answer: ');
-      const WRONG = `${answer} is wrong answer ;(. Correct answer was ${result}.\nLet's try again, ${userName}!`;
+      const WRONG = `'${answer}' is wrong answer ;(. Correct answer was '${result}'.\nLet's try again, ${userName}!`;
 
       if (result === answer) {
         console.log(CORRECT);
