@@ -9,7 +9,8 @@
     "even-game": "bin/brain-even.js",
     "calc-game": "bin/brain-calc.js",
     "gcd-game": "bin/brain-gcd.js",
-    "progression-game": "bin/brain-progression.js"
+    "progression-game": "bin/brain-progression.js",
+    "prime-game": "bin/brain-prime.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
