@@ -2,6 +2,7 @@ import readlineSync from 'readline-sync';
 import { greeting } from './cli.js';
 
 function startGame(game, RULE) {
+  console.log('!!!!!!');
   const userName = greeting();
 
   if (game && RULE) {
