@@ -13,10 +13,11 @@ function progressionGame() {
     const an = number + (n - 1) * step;
     progression.push(an);
   }
-  progression[hiddenIndex] = '..';
 
+  const result = String(progression[hiddenIndex]);
+
+  progression[hiddenIndex] = '..';
   const question = progression.join(' ');
-  const result = String(step);
 
   return { question, result };
 }
