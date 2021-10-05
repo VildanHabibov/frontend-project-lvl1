@@ -1,4 +1,4 @@
-import startGame from '../index.js';
+import startGame from '../src/index.js';
 import { randomInteger } from '../src/cli.js';
 
 const RULE = 'Answer "yes" if the number is even, otherwise answer "no".';
