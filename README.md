@@ -18,3 +18,6 @@
 
 **the Arithmetic Progression Game**
 [![asciicast](https://asciinema.org/a/Cumf50vrGz47cd2ESJ4DPXz3T.svg)](https://asciinema.org/a/Cumf50vrGz47cd2ESJ4DPXz3T)
+
+**the Prime Game**
+[![asciicast](https://asciinema.org/a/yjzEtc18wIlgyfnpvgGEK5NCK.svg)](https://asciinema.org/a/yjzEtc18wIlgyfnpvgGEK5NCK)
