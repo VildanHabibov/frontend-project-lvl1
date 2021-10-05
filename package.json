@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "[![Actions Status](https://github.com/VildankKhabibov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/VildankKhabibov/frontend-project-lvl1/actions)",
-  "main": "index.js",
+  "main": "",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "even-game": "bin/brain-even.js",
