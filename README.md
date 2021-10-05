@@ -15,3 +15,6 @@
 
 **the Greatest Common Divisor Game**
 [![asciicast](https://asciinema.org/a/3eirwcA4ztQPVDKQ4NkbrNuED.svg)](https://asciinema.org/a/3eirwcA4ztQPVDKQ4NkbrNuED)
+
+**the Arithmetic Progression Game**
+[![asciicast](https://asciinema.org/a/Cumf50vrGz47cd2ESJ4DPXz3T.svg)](https://asciinema.org/a/Cumf50vrGz47cd2ESJ4DPXz3T)
